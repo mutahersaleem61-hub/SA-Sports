@@ -1,0 +1,35 @@
+{
+  "categories": [
+    { "slug": "jackets", "name": "Leather Jackets", "description": "Full-grain jackets cut and stitched to last decades.", "sort_order": 1 },
+    { "slug": "hides", "name": "Hides & Raw Materials", "description": "Selected hides, finished and unfinished, for makers and manufacturers.", "sort_order": 2 },
+    { "slug": "belts", "name": "Leather Belts", "description": "Single-piece belts with solid brass hardware.", "sort_order": 3 },
+    { "slug": "footwear", "name": "Shoes & Boots", "description": "Hand-lasted shoes and boots in vegetable-tanned leather.", "sort_order": 4 },
+    { "slug": "bags", "name": "Leather Bags", "description": "Travel, work and everyday bags with reinforced stitching.", "sort_order": 5 },
+    { "slug": "boxing-gloves", "name": "Boxing Gloves", "description": "Genuine leather gloves for training and competition.", "sort_order": 6 },
+    { "slug": "boxing-equipment", "name": "Boxing Equipment", "description": "Heavy bags, pads, wraps and gym gear built for daily use.", "sort_order": 7 },
+    { "slug": "boxes-accessories", "name": "Boxes & Accessories", "description": "Leather boxes, wallets, cases and small goods.", "sort_order": 8 },
+    { "slug": "custom", "name": "Custom Leather Products", "description": "Made to your design, size and branding.", "sort_order": 9 }
+  ],
+  "products": [
+    { "slug": "heritage-biker-jacket", "name": "Heritage Biker Jacket", "category_slug": "jackets", "price": 389, "stock": 14, "featured": true, "description": "Full-grain cowhide with a quilted lining, asymmetric zip and antique brass hardware. Cut close through the shoulder, roomy enough for layers.", "image_url": "" },
+    { "slug": "classic-bomber-jacket", "name": "Classic Bomber Jacket", "category_slug": "jackets", "price": 329, "stock": 20, "featured": false, "description": "Lambskin bomber with ribbed cuffs and hem. Soft from the first wear.", "image_url": "" },
+    { "slug": "executive-blazer-jacket", "name": "Executive Leather Blazer", "category_slug": "jackets", "price": 449, "stock": 8, "featured": false, "description": "A tailored two-button blazer in supple nappa leather, fully lined in satin.", "image_url": "" },
+    { "slug": "full-grain-cowhide-side", "name": "Full-Grain Cowhide Side", "category_slug": "hides", "price": 145, "stock": 60, "featured": false, "description": "Vegetable-tanned side, 2.0 to 2.4 mm. Suited to belts, bags and saddlery. Sold per side.", "image_url": "" },
+    { "slug": "goatskin-hide-set", "name": "Goatskin Hide Set (5 pcs)", "category_slug": "hides", "price": 210, "stock": 35, "featured": false, "description": "Five dyed goatskin pieces, 1.0 to 1.2 mm, for garments, linings and small goods.", "image_url": "" },
+    { "slug": "wholesale-raw-hide-lot", "name": "Raw Hide Lot (wholesale)", "category_slug": "hides", "price": 980, "stock": 10, "featured": false, "description": "Mixed-grade lot for tanneries and manufacturers. Contact us for volume pricing.", "image_url": "" },
+    { "slug": "signature-bridle-belt", "name": "Signature Bridle Belt", "category_slug": "belts", "price": 79, "stock": 80, "featured": true, "description": "One piece of bridle leather, edge-burnished by hand, with a solid brass buckle.", "image_url": "" },
+    { "slug": "reversible-dress-belt", "name": "Reversible Dress Belt", "category_slug": "belts", "price": 69, "stock": 55, "featured": false, "description": "Black on one side, chocolate on the other, with a rotating polished buckle.", "image_url": "" },
+    { "slug": "oxford-cap-toe-shoe", "name": "Oxford Cap-Toe Shoe", "category_slug": "footwear", "price": 249, "stock": 24, "featured": false, "description": "Goodyear-welted calf leather with a leather sole. Resolable.", "image_url": "" },
+    { "slug": "heritage-work-boot", "name": "Heritage Work Boot", "category_slug": "footwear", "price": 279, "stock": 18, "featured": true, "description": "Oil-tanned full-grain boot with a stacked heel and storm welt. Built for hard ground.", "image_url": "" },
+    { "slug": "chelsea-boot", "name": "Chelsea Boot", "category_slug": "footwear", "price": 259, "stock": 22, "featured": false, "description": "Sleek suede-lined Chelsea with elastic gussets and a pull tab.", "image_url": "" },
+    { "slug": "weekender-travel-bag", "name": "Weekender Travel Bag", "category_slug": "bags", "price": 299, "stock": 16, "featured": true, "description": "Roomy duffel in thick cowhide with a zip-around main compartment and shoulder strap.", "image_url": "" },
+    { "slug": "leather-briefcase", "name": "Leather Briefcase", "category_slug": "bags", "price": 269, "stock": 12, "featured": false, "description": "Structured briefcase with a padded laptop sleeve and two brass locks.", "image_url": "" },
+    { "slug": "pro-training-boxing-gloves", "name": "Pro Training Boxing Gloves", "category_slug": "boxing-gloves", "price": 119, "stock": 40, "featured": true, "description": "Genuine leather gloves with multi-layer foam and a wrap-around wrist closure. 10, 12, 14 and 16 oz.", "image_url": "" },
+    { "slug": "competition-boxing-gloves", "name": "Competition Boxing Gloves", "category_slug": "boxing-gloves", "price": 149, "stock": 25, "featured": false, "description": "Lace-up leather gloves with a pre-curved fit and moisture-wicking lining.", "image_url": "" },
+    { "slug": "leather-heavy-bag", "name": "Leather Heavy Bag (unfilled)", "category_slug": "boxing-equipment", "price": 139, "stock": 30, "featured": false, "description": "Four-foot leather heavy bag shell with reinforced chain mounts. Ships unfilled to save freight.", "image_url": "" },
+    { "slug": "focus-pads-pair", "name": "Leather Focus Pads (pair)", "category_slug": "boxing-equipment", "price": 59, "stock": 45, "featured": false, "description": "Curved leather focus mitts with a wide hand opening and dense core.", "image_url": "" },
+    { "slug": "leather-jewelry-box", "name": "Leather Jewelry Box", "category_slug": "boxes-accessories", "price": 89, "stock": 28, "featured": false, "description": "Suede-lined box with a ring roll and two trays, wrapped in smooth leather.", "image_url": "" },
+    { "slug": "bifold-leather-wallet", "name": "Bifold Leather Wallet", "category_slug": "boxes-accessories", "price": 49, "stock": 90, "featured": false, "description": "Eight card slots and a full-length bill pocket in vegetable-tanned leather.", "image_url": "" },
+    { "slug": "custom-leather-order", "name": "Custom Leather Order (deposit)", "category_slug": "custom", "price": 100, "stock": 999, "featured": false, "description": "Reserve a custom production slot: your design, sizes, colours and logo. We confirm full pricing with you before any work begins.", "image_url": "" }
+  ]
+}
